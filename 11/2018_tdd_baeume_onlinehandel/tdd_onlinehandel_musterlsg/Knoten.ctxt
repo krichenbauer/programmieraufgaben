@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Knoten
+comment1.params=neuesProdukt
+comment1.target=Knoten(Produkt)
+comment2.params=
+comment2.target=Produkt\ produktGeben()
+comment3.params=
+comment3.target=Knoten\ linkerNachfolgerGeben()
+comment4.params=
+comment4.target=Knoten\ rechterNachfolgerGeben()
+comment5.params=
+comment5.target=boolean\ hatLinkenNachfolger()
+comment6.params=
+comment6.target=boolean\ hatRechtenNachfolger()
+comment7.params=andererKnoten
+comment7.target=boolean\ mussRechtsEinsortiertWerden(Knoten)
+comment8.params=neuerKnoten
+comment8.target=void\ knotenEinsortieren(Knoten)
+comment9.params=artikelNr
+comment9.target=Produkt\ suchen(int)
+numComments=10

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=ProduktSuchBaum
+comment1.params=
+comment1.target=ProduktSuchBaum()
+comment2.params=
+comment2.target=Knoten\ wurzelGeben()
+comment3.params=neuesProdukt
+comment3.target=void\ produktEinsortieren(Produkt)
+comment4.params=artikelNr
+comment4.target=Produkt\ suchen(int)
+numComments=5
