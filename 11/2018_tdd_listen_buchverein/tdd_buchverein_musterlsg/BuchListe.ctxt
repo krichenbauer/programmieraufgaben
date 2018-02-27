@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=BuchListe
+comment1.params=
+comment1.target=BuchListe()
+comment2.params=m
+comment2.target=void\ mitgliedAnstellen(Mitglied)
+comment3.params=
+comment3.target=Mitglied\ naechstesMitgliedEntnehmen()
+comment4.params=
+comment4.target=Mitglied\ letztesMitgliedGeben()
+comment5.params=m
+comment5.target=void\ mitgliedEntfernen(Mitglied)
+numComments=6

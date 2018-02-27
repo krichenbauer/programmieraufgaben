@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Aufgabe3
+comment1.params=
+comment1.target=void\ leererStapelTest()
+comment2.params=
+comment2.target=void\ einenKnotenImStapelTest()
+comment3.params=
+comment3.target=void\ vieleKnotenImStapelAnstellenUndEntnehmenTest()
+numComments=4

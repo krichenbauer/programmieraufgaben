@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Knoten
+comment1.params=m
+comment1.target=Knoten(Mitglied)
+comment2.params=
+comment2.target=Mitglied\ mitgliedGeben()
+comment3.params=k
+comment3.target=void\ nachfolgerHinzufuegen(Knoten)
+comment4.params=
+comment4.target=boolean\ hatNachfolger()
+comment5.params=
+comment5.target=Knoten\ nachfolgerGeben()
+comment6.params=m
+comment6.target=void\ knotenEntfernen(Mitglied)
+comment7.params=
+comment7.target=Mitglied\ letztesMitgliedGeben()
+numComments=8

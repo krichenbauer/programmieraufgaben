@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Knoten
+comment1.params=d
+comment1.target=Knoten(DatenElement)
+comment2.params=k
+comment2.target=void\ nachfolgerHinzufuegen(Knoten)
+comment3.params=
+comment3.target=Knoten\ letztenKnotenEntnehmen()
+comment4.params=
+comment4.target=DatenElement\ datenElementGeben()
+comment5.params=
+comment5.target=boolean\ istLetzterKnoten()
+numComments=6

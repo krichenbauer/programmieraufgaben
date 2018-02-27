@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Aufgabe4
+comment1.params=
+comment1.target=void\ LeereHistoryAnlegen()
+comment2.params=
+comment2.target=void\ einElementInHistoryLegenUndEntnehmen()
+comment3.params=
+comment3.target=void\ mehrereElementeInHistoryLegenUndEntnehmen()
+numComments=4

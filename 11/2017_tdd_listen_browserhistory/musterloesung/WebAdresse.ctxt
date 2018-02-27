@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=WebAdresse
+comment1.params=url
+comment1.target=WebAdresse(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ adresseGeben()
+comment3.params=
+comment3.target=java.lang.String\ textGeben()
+numComments=4
