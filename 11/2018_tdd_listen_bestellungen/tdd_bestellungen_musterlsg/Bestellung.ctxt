@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Bestellung
+comment1.params=s
+comment1.target=Bestellung(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ sorteGeben()
+comment3.params=
+comment3.target=void\ grossSetzen()
+comment4.params=
+comment4.target=boolean\ istGross()
+comment5.params=
+comment5.target=java.lang.String\ groesseGeben()
+numComments=6

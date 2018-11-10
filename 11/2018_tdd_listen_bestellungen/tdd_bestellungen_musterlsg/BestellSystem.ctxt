@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=BestellSystem
+comment1.params=
+comment1.target=BestellSystem()
+comment2.params=b
+comment2.target=void\ bestellungHinzufuegen(Bestellung)
+comment3.params=
+comment3.target=Bestellung\ bestellungEntnehmen()
+comment4.params=
+comment4.target=int\ kleineGetraenkeZaehlen()
+numComments=5

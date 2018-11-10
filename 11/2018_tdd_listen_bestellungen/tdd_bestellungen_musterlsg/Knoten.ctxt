@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Knoten
+comment1.params=b
+comment1.target=Knoten(Bestellung)
+comment2.params=
+comment2.target=Bestellung\ bestellungGeben()
+comment3.params=b
+comment3.target=void\ bestellungHinzufuegen(Bestellung)
+comment4.params=
+comment4.target=boolean\ hatNachfolger()
+comment5.params=
+comment5.target=Knoten\ nachfolgerGeben()
+comment6.params=
+comment6.target=void\ undo()
+comment7.params=
+comment7.target=int\ kleineGetraenkeZaehlen()
+numComments=8
