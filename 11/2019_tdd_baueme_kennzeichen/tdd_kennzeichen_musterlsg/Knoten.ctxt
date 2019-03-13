@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Knoten
+comment0.text=Aufgabe\ 2a
+comment1.params=n
+comment1.target=Knoten(Nummernschild)
+comment2.params=
+comment2.target=Nummernschild\ nummernschildGeben()
+comment3.params=k
+comment3.target=void\ knotenLinksSetzen(Knoten)
+comment4.params=k
+comment4.target=void\ knotenRechtsSetzen(Knoten)
+comment5.params=
+comment5.target=Knoten\ knotenLinksGeben()
+comment6.params=
+comment6.target=Knoten\ knotenRechtsGeben()
+comment7.params=n
+comment7.target=java.lang.String\ einfuegen(Nummernschild)
+comment7.text=Aufgabe\ 3c
+numComments=8

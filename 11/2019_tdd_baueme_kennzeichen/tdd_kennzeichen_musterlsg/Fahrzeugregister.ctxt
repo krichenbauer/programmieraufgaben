@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Fahrzeugregister
+comment1.params=
+comment1.target=Knoten\ wurzelGeben()
+comment2.params=n
+comment2.target=java.lang.String\ einfuegen(Nummernschild)
+comment2.text=Aufgabe\ 3c
+numComments=3

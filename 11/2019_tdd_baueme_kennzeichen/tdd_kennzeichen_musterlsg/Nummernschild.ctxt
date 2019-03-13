@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Nummernschild
+comment1.params=k
+comment1.target=Nummernschild(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ kennzeichenGeben()
+comment3.params=anderesNummernschild
+comment3.target=boolean\ istVor(Nummernschild)
+comment3.text=\n\ istVor(anderesNummernschild)\ ermittelt,\ ob\ ein\ Nummernschild\ lexikografisch\n\ vor\ einem\ anderen\ einzuordnen\ ist.\n
+comment4.params=h
+comment4.target=void\ halterEintragen(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ halterGeben()
+comment6.params=anderesNummernschild
+comment6.target=boolean\ istGleich(Nummernschild)
+comment6.text=Aufgabe\ 1b
+numComments=7
